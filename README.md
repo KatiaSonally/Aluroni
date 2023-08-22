@@ -1,3 +1,15 @@
+# Site completo da nossa casa do código e da massa! 
+
+Agora nosso site tem:
+
+- A página de Início, com um menu para acesso às outras páginas
+- As sugestões da cozinha, na página de Início, variam a cada pesquisa
+- Visualização dos detalhes dos pratos, tanto no Início quanto no Cardápio, através de áreas clicáveis
+- Uma melhor diagramação do Cardápio, destacando o prato conforme o deslizamento do mouse
+- A nossa página institucional, com as informações sobre a casa
+
+![Alt text](Aluroni.gif)
+
 # Objetivos do projeto
 
 - Aprender a refatorar um projeto utilizando ESLint
